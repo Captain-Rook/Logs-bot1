@@ -1,3 +1,4 @@
+require('dotenv').config()
 const mineflayer = require('mineflayer');
 const moment = require('moment-timezone');
 const fs = require('fs');
